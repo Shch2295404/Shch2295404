@@ -1,6 +1,6 @@
 
 
-![avatar7083272365](https://github.com/Shch2295404/Shch2295404/assets/166839614/10142b6b-9b41-4d57-b790-9c6bf107b6e7)
+
 
 
 <!
