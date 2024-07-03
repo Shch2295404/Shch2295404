@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+
+![avatar7083272365](https://github.com/Shch2295404/Shch2295404/assets/166839614/10142b6b-9b41-4d57-b790-9c6bf107b6e7)
+
+
+<!
+
 **Shch2295404/Shch2295404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
